@@ -12,11 +12,12 @@
 2) EFI/OROM for RSTe SATA(Port 0-3)/sSATA(Port 4-7) firmware up to 5.5.5.1005 ((latest) Full I/O speed).
 3) CPU microcode (latest).
 4) AMI NVMe firmware (latest).
-5) DMI Data.
+5) LAN Boot ROM.
+6) EFI Realtek UNDI PCIe GbE Family Controller Driver (2.054, 06/30/2020)
+7) DMI Data.
 
   Deleted:
 1) All trash (Unrelated to Huananzhi X99-TF).
-2) LAN BOOT ROM.
 
   Looked:
 MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT, AMT.

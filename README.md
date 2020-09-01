@@ -19,6 +19,9 @@
   Deleted:
 1) All trash (Unrelated to Huananzhi X99-TF).
 
+  Added:
+1) EFI Shell version 2.40.
+
   Looked:
 MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT, AMT.
 
@@ -36,3 +39,12 @@ MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT
 2) Clear CMOS.
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
+
+Brief:
+
+![BY99RD25 BIOS for HUANANZHI X99-TF GAMING Motherboard 08/25/2020](MAIN.PNG)
+![Realtek UIEFI UNDI Driver](UNDI.png)
+![Intel XMP Configuration](MEMORY.png)
+![Boot option](BOOT.png)
+![PC Health Status](PM.png)
+![Save & Exit](SAVE.png)

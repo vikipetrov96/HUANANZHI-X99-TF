@@ -42,7 +42,6 @@ MBEx, Cipher Transport Layer TLS (CVE-2017-5689 & CVE-2018-3616), PTT, NFC, RPAT
 
 Brief:
 
-![BY99RD25 BIOS for HUANANZHI X99-TF GAMING Motherboard 08/25/2020](MAIN.PNG)
 ![Realtek UIEFI UNDI Driver](UNDI.png)
 ![Intel XMP Configuration](MEMORY.png)
 ![Boot option](BOOT.png)

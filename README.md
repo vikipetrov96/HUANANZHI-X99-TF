@@ -1,5 +1,6 @@
 # HUANANZHI X99-TF GAMING
 ## BY99RD25 BIOS for HUANANZHI X99-TF GAMING Motherboard 08/25/2020 (Republic of Belarus Edition)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
 
 ![Republic of Belarus](REPUBLIC-OF-BELARUS.png)
 

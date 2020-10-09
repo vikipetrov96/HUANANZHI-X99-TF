@@ -17,6 +17,7 @@
 * ##### Pre Release BY99RD25 08/25/2020
 * ##### Release CX99DE26 10/10/2020
 
+* ##### How Update BY99RD25 to CX99DE26, if you have another version BIOS - USE programer device !!!
 ![How Update BY99RD25 to CX99DE26](CX99DE26.png)
 
 ## BY99RD25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 08/25/2020

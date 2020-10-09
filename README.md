@@ -1,7 +1,28 @@
 # HUANANZHI X99-TF GAMING
-## BY99RD25 BIOS for HUANANZHI X99-TF GAMING Motherboard 08/25/2020 (Republic of Belarus Edition)
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
+* ##### (UEFI Only / Legacy Not Supported)
 
+[![](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=appveyor)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
+<div align="left">
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-TF/releases">
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/HUANANZHI-X99-TF/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-TF/releases/latest">
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/HUANANZHI-X99-TF.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-TF/blob/master/License">
+        <img src="https://img.shields.io/github/license/BIOS-iEngineer/HUANANZHI-X99-TF.svg?style=for-the-badge&logo=appveyor" alt="license"/>
+    </a>
+</div>
+
+* ##### Pre Release BY99RD25 08/25/2020
+* ##### Release CX99DE26 10/10/2020
+
+![How Update BY99RD25 to CX99DE26](CX99DE26.png)
+
+## BY99RD25 BIOS for HUANANZHI X99-F8 GAMING Motherboard 08/25/2020
+## CX99DE26 BIOS for HUANANZHI X99-F8 GAMING Motherboard 10/10/2020
+
+* For BY99RD25 Boot screen Logo Republic of Belarus
 ![Republic of Belarus](REPUBLIC-OF-BELARUS.png)
 
   Builder: iEngineer
